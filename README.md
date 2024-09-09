@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack-Software-Development.
 - 🌱 I’m currently doing Full-Stack-Software-Development certification from IBM.
 - 💞️ I’m looking to collaborate on diverse projects to excel my programming skills and techniques.
-- 📫 Feel free to reach me at ( www.linkedin.com/in/haris-rahim-6b2bb530b )
+- 📫 Feel free to reach me at ( www.linkedin.com/in/haris-rahim-094381235 )
 
 
 <!---
